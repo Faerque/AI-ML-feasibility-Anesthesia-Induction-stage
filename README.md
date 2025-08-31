@@ -13,7 +13,6 @@ A comprehensive machine learning prototype for predicting anesthesia induction p
 - [Usage](#usage)
 - [Model Explanations](#model-explanations)
 - [Performance](#performance)
-- [Contributing](#contributing)
 - [License](#license)
 - [References](#references)
 
