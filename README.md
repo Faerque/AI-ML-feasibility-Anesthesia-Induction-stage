@@ -213,21 +213,6 @@ The system provides detailed explanations using SHAP (SHapley Additive exPlanati
 - **Precision (Adverse)**: 0.89
 - **Recall (Effective)**: 0.91
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Add docstrings to new functions
-- Update tests for new features
-- Ensure models maintain or improve performance
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
