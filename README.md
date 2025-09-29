@@ -1,4 +1,4 @@
-# AI/ML feasibility Anesthesia Induction stage
+# AI/ML Feasibility Study for Anesthesia Induction Stage Incorporating Pharmacogenomic Markers
 
 A comprehensive machine learning prototype for predicting anesthesia induction parameters using multi-stage modeling approach. This project predicts anesthesia type, dosage, and early response based on patient demographics, genetic factors, medical history, and physiological parameters.
 
